@@ -140,3 +140,8 @@ deployment process provided by *this repository*, then [open an issue here](http
 ## License
 
 Released under the [MIT license](./LICENSE), just like the Ghost project itself.
+
+
+## Web url
+
+http://vhorizon.herokuapp.com
