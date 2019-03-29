@@ -717,7 +717,6 @@ make sure this only happens on large viewports / desktop-ish devices.
 }
 
 .post-full-image {
-    height: 600px;
     margin: 0 -10vw -165px;
     background: var(--lightgrey) center center;
     border-radius: 10px;
