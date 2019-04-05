@@ -1723,7 +1723,7 @@ Usage (In Ghost editor):
 .floating-header-share svg {
     width: auto;
     height: 16px;
-    fill: #fff;
+    fill: #000;
 }
 
 .floating-header-share-label {
@@ -1733,6 +1733,7 @@ Usage (In Ghost editor):
     margin-right: 10px;
     color: rgba(0,0,0,0.7);
     font-weight: 500;
+    font-size: 1.6rem;
 }
 
 .floating-header-share-label svg {
@@ -1756,11 +1757,11 @@ Usage (In Ghost editor):
 }
 
 .floating-header-share-tw {
-    background: #33b1ff;
+    /*background: #33b1ff;*/
 }
 
 .floating-header-share-fb {
-    background: #005e99;
+    /*background: #005e99;*/
 }
 
 .progress {
